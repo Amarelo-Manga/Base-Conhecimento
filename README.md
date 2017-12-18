@@ -1,13 +1,13 @@
-## Base de Conhecimento
+# Base de Conhecimento
 
 
-# Base WP, Plugins, Themes, Extensões, Code
+## Base WP, Plugins, Themes, Extensões, Code
+*
 
 
-
-# Stack 
+## Stack 
 * GitHub
 
 
-# Implementar
+## Implementar
 * Slack
