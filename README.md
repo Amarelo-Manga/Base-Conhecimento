@@ -27,3 +27,8 @@ Give an example
 
 ## Implementar
 * Slack
+
+
+## Estudos
+* GitHub [Udacity](https://br.udacity.com/course/how-to-use-git-and-github--ud775)
+* Github [Udemey](https://www.udemy.com/git-e-github-para-iniciantes)
