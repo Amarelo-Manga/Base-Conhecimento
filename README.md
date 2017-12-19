@@ -27,6 +27,7 @@ Give an example
 
 ## Implementar
 * Slack
+* [waffle.io](https://waffle.io/) - Gestor de Projetos para Github
 
 
 ## Estudos
