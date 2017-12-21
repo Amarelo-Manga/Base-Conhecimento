@@ -14,7 +14,7 @@ Para mais explicações : https://stackoverflow.com/questions/3123063/what-does-
 ```
 
 
-### Plugin de Eventos
+### Plugins
 * [All in One Migration](https://br.wordpress.org/plugins/all-in-one-wp-migration/) - Para Backups e Migração do WP
 ```
 ///plugins/all-in-one-wp-migration/constants.php
