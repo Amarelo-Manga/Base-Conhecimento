@@ -15,6 +15,14 @@ Para mais explicações : https://stackoverflow.com/questions/3123063/what-does-
 
 
 ### Plugin de Eventos
+* [All in One Migration](https://br.wordpress.org/plugins/all-in-one-wp-migration/) - Para Backups e Migração do WP
+```
+///plugins/all-in-one-wp-migration/constants.php
+// =================
+// = Max File Size =
+// =================
+define( 'AI1WM_MAX_FILE_SIZE', 536870912 * 8 );
+```
 * [Events Made Easy](https://wordpress.org/plugins/events-made-easy/) - Projeto Edgard Raoul Voice
 * [Events Made Easy Front Submit](https://github.com/wp-plugins/events-made-easy-frontend-submit) - Projeto Edgard Raoul Voice
 
