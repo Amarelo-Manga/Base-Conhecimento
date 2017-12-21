@@ -7,6 +7,11 @@
 ```
 Give an example
 ```
+### Mudanças no CSS para o mozilla
+```
+@-moz-document url-prefix(){ //coloque aqui a classe que deseja alterar}
+Para mais explicações : https://stackoverflow.com/questions/3123063/what-does-moz-document-url-prefix-do
+```
 
 
 ### Plugin de Eventos
