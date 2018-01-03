@@ -13,6 +13,14 @@ Give an example
 Para mais explicações : https://stackoverflow.com/questions/3123063/what-does-moz-document-url-prefix-do
 ```
 
+### Create Page Template
+* [Create page template wordpress documentation](https://developer.wordpress.org/themes/template-files-section/page-template-files/)
+
+
+### Add MetaBox For Template Page
+* [Metabox For template page] (https://rtcamp.com/blog/assign-custom-metabox-to-specific-page-template/)
+* [Metabox For template page] (https://paulund.co.uk/display-post-meta-box-specific-page-templates)
+
 
 ### Plugins
 * [All in One Migration](https://br.wordpress.org/plugins/all-in-one-wp-migration/) - Para Backups e Migração do WP
