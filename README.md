@@ -18,8 +18,8 @@ Para mais explicações : https://stackoverflow.com/questions/3123063/what-does-
 
 
 ### Add MetaBox For Template Page
-* [Metabox For template page] (https://rtcamp.com/blog/assign-custom-metabox-to-specific-page-template/)
-* [Metabox For template page] (https://paulund.co.uk/display-post-meta-box-specific-page-templates)
+* [Metabox For template page](https://rtcamp.com/blog/assign-custom-metabox-to-specific-page-template/)
+* [Metabox For template page](https://paulund.co.uk/display-post-meta-box-specific-page-templates)
 
 
 ### Plugins
