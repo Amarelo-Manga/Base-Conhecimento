@@ -24,23 +24,23 @@ class add_metabox_name{
         global $post;
         wp_nonce_field( 'save_'.__CLASS__, __CLASS__.'_noncename' );
         $metadata = get_metadata('post', $post->ID);
-        if(!isset($metadata['name_metabox'])){ //Name do Metabox
+        if(!isset($metadata['metabox_name'])){ //Name do Metabox
            $content = "";
         }else{
-            $content = $metadata['name_metabox'][0]; //Name do Metabox
+            $content = $metadata['metabox_name'][0]; //Name do Metabox
         };
     ?>  
 
         <!-- Tipos de Campos-->
-        <textarea name="<?php echo __CLASS__ ?>[name_metabox]" style="background-color: #fff; font-size: 1.7em; height: 4em; line-height: 100%; margin: 0; outline: 0; padding: 3px 8px; width: 100%;">
+        <textarea name="<?php echo __CLASS__ ?>[metabox_name]" style="background-color: #fff; font-size: 1.7em; height: 4em; line-height: 100%; margin: 0; outline: 0; padding: 3px 8px; width: 100%;">
         	<?php echo $content; ?>
         </textarea>
 
         <!-- Tipos de Campos-->
-        <input type="number" name="<?php echo __CLASS__ ?>[name_metabox]" value="<?php echo $content; ?>" style="background-color: #fff; font-size: 1.7em; height: 1.7em; line-height: 100%; margin: 0; outline: 0; padding: 3px 8px; width: 100%;" />
+        <input type="number" name="<?php echo __CLASS__ ?>[metabox_name]" value="<?php echo $content; ?>" style="background-color: #fff; font-size: 1.7em; height: 1.7em; line-height: 100%; margin: 0; outline: 0; padding: 3px 8px; width: 100%;" />
 
           <!-- Tipos de Campos-->
-        <input type="text" name="<?php echo __CLASS__ ?>[name_metabox]" value="<?php echo  $content; ?>" style="background-color: #fff; font-size: 1.7em; height: 1.7em; line-height: 100%; margin: 0; outline: 0; padding: 3px 8px; width: 100%;" />
+        <input type="text" name="<?php echo __CLASS__ ?>[metabox_name]" value="<?php echo  $content; ?>" style="background-color: #fff; font-size: 1.7em; height: 1.7em; line-height: 100%; margin: 0; outline: 0; padding: 3px 8px; width: 100%;" />
 
 
 
@@ -77,7 +77,7 @@ class add_metabox_name{
         }
     }
 }
-add_qtd_aulas_course::init();
+add_metabox_name::init();
 
     
     <?php
