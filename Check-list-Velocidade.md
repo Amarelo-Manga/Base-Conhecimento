@@ -1,18 +1,18 @@
 ### Check List Velocidade
 
--[] Cache no Navegador
--[] Minifique CSS, Javascript e HTML
--[] Não use Javascript de bloqueio de renderização, JS sempre no Footer - PLG Speed Booster Pack 
--[] GZIP - mod_deflate(Apache)
--[] GZIP Locaweb - https://wiki.locaweb.com.br/pt-br/Habilitar_Gzip_Deflate
--[] GZIP TEST - https://checkgzipcompression.com, https://www.giftofspeed.com/gzip-test/
--[] Cache Locaweb -  https://wiki.locaweb.com.br/pt-br/Habilitar_cache_via_htaccess
--[] Habilitar o Keep Alive - .htaccess, teste: curl -i url
--[] Otimize Imagens
--[] Remove version dos includes css e js
--[] CDN
--[] AMP  - Ferramenta facebook
--[] Instant Articles - Ferramenta facebook
+* Cache no Navegador
+* Minifique CSS, Javascript e HTML
+* Não use Javascript de bloqueio de renderização, JS sempre no Footer - PLG Speed Booster Pack 
+* GZIP - mod_deflate(Apache)
+* GZIP Locaweb - https://wiki.locaweb.com.br/pt-br/Habilitar_Gzip_Deflate
+* GZIP TEST - https://checkgzipcompression.com, https://www.giftofspeed.com/gzip-test/
+* Cache Locaweb -  https://wiki.locaweb.com.br/pt-br/Habilitar_cache_via_htaccess
+* Habilitar o Keep Alive - .htaccess, teste: curl -i url
+* Otimize Imagens
+* Remove version dos includes css e js
+* CDN
+* AMP  - Ferramenta facebook
+* Instant Articles - Ferramenta facebook
 
 
 # Adicionar Gzip no Servidor
