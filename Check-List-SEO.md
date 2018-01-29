@@ -19,6 +19,20 @@ imagens, gifs, vídeos ou áudios durante o conteúdo.
 - Img com ALT
 - Subtitulos Corretos h1, h2, h3
 - Rich Snippets - SiteLinks, Local Search, Breadcrumbs, Reviews
+- Robots.txt 
+- site_map.xml
 
 
 Referência: https://s3.amazonaws.com/rd-marketing-objects/ebook-dicas-seo/27-dicas-de-seo-acionaveis.pdf
+
+
+# Ferramentas para testar SEO Online
+
+* [BrowSEO](http://www.browseo.net/)
+* [Majestic](https://majestic.com/reports/site-explorer)
+* [SemRush](https://www.semrush.com/info)
+* [SeoMaster](http://www.seomaster.com.br/ferramentas/analise-seo-gratis/)
+* [WooRank](https://www.woorank.com/pt/)
+* [SeoOptimer](https://www.seoptimer.com/)
+* [SimilarWeb](https://www.similarweb.com/website)
+* [NeilPatel](http://tools.neilpatel.com/en/analyze/h)
