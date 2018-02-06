@@ -25,6 +25,13 @@ imagens, gifs, vídeos ou áudios durante o conteúdo.
 
 Referência: https://s3.amazonaws.com/rd-marketing-objects/ebook-dicas-seo/27-dicas-de-seo-acionaveis.pdf
 
+# Ferramentas para Adicionar novo site aos Buscadores
+* [Todos Buscadores](https://www.entireweb.com/free_submission/)
+* [Bing](https://www.bing.com/toolbox/)
+* [Google](https://www.google.com/webmasters/tools/)
+
+# [Ranking de Ranqueamento do Google](https://backlinko.com/google-ranking-factors)
+
 
 # Ferramentas para testar SEO Online
 
