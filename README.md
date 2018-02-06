@@ -51,6 +51,10 @@ define( 'AI1WM_MAX_FILE_SIZE', 536870912 * 8 );
 * [waffle.io](https://waffle.io/) - Gestor de Projetos para Github
 
 
+## [Apreender a Programar](http://www.composingprograms.com/) 
+ 
+
+
 ## Estudos
 * GitHub [Udacity](https://br.udacity.com/course/how-to-use-git-and-github--ud775)
 * Github [Udemey](https://www.udemy.com/git-e-github-para-iniciantes)
