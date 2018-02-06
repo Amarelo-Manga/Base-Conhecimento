@@ -20,6 +20,17 @@ Para mais explicações : https://stackoverflow.com/questions/3123063/what-does-
 ### Add MetaBox For Template Page
 * [Metabox For template page](https://rtcamp.com/blog/assign-custom-metabox-to-specific-page-template/)
 * [Metabox For template page](https://paulund.co.uk/display-post-meta-box-specific-page-templates)
+* [Mebtaox Image Upload](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/metabox_example-image-upload.php)
+* [Metabox Image Upload JS](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/metabox-imageUpload.js)
+* [Metabox Example](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/metabox_example.php)
+* [Metabox TextArea Editor Wysiwg](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/metabox_example_wysiwyg.php)
+* [Metabox Repeatable Fields](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/repeatable-fields-metabox.php)
+
+
+### CheckLists
+* [Velocidade e Otimização](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/Check-list-Velocidade.md)
+* [SEO e Métricas](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/Check-List-SEO.md)
+
 
 
 ### Plugins
