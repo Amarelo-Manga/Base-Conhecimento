@@ -34,6 +34,7 @@ Referência: https://www.eduardomaio.net/tornar-um-site-mais-rapido-com-compress
 ```
 
 
+# [Forçar Cache](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/For%C3%A7a-a-utilizar-Cache-Control-e-Expires-header.md)
 
 # Remover Versão dos scripts css e JS
 ```
