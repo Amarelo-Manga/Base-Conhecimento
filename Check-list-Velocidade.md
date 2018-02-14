@@ -14,7 +14,6 @@
 * AMP  - Ferramenta facebook
 * Instant Articles - Ferramenta facebook
 
-
 # Adicionar Gzip no Servidor
 Referência: https://www.eduardomaio.net/tornar-um-site-mais-rapido-com-compressao-gzip-e-brotli/
 ```
@@ -32,7 +31,6 @@ Referência: https://www.eduardomaio.net/tornar-um-site-mais-rapido-com-compress
     </FilesMatch>
 </IfModule>
 ```
-
 
 # [Forçar Cache](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/For%C3%A7a-a-utilizar-Cache-Control-e-Expires-header.md)
 
@@ -61,9 +59,7 @@ function style_or_min_style( $stylesheet_uri, $stylesheet_dir_uri ) {
 add_filter( 'stylesheet_uri', 'style_or_min_style', 10, 2);
 ```
 
-
-
-
+# [Dicas de otimização para WP](http://www.wpbeginner.com/wordpress-performance-speed/)
 
 # Ferramentas para testes
 - [Verificar Velcidade do site Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
@@ -77,4 +73,3 @@ add_filter( 'stylesheet_uri', 'style_or_min_style', 10, 2);
 - [Ferramentas para Otimização](https://www.giftofspeed.com/tools/)
 - [Check Links Quebrados no site](https://www.deadlinkchecker.com/website-dead-link-checker.asp)
 - [Check richview](https://richpreview.com)
--
