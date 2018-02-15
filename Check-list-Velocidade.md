@@ -61,7 +61,7 @@ add_filter( 'stylesheet_uri', 'style_or_min_style', 10, 2);
 
 # [Dicas de otimização para WP](http://www.wpbeginner.com/wordpress-performance-speed/)
 
-# [Verificar Informações do Servidor/Site - BrowserSpy] (http://browserspy.dk/webserver.php)
+# [Verificar Informações do Servidor/Site - BrowserSpy](http://browserspy.dk/webserver.php)
 
 # Ferramentas para testes
 - [Verificar Velcidade do site Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
