@@ -56,6 +56,9 @@ define( 'AI1WM_MAX_FILE_SIZE', 536870912 * 8 );
 * HomeBrew 
 * Composer - [OSX](https://gist.github.com/tomysmile/3b37ab4a1ddd604093fe724d0a882166)
 
+## Referências
+* [Validar Performance de Código JS](https://jsperf.com/)
+
 
 ## Implementar
 * Slack
