@@ -30,6 +30,7 @@ Para mais explicações : https://stackoverflow.com/questions/3123063/what-does-
 ### CheckLists
 * [Velocidade e Otimização](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/Check-list-Velocidade.md)
 * [SEO e Métricas](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/Check-List-SEO.md)
+* [Segurança WP](https://github.com/Amarelo-Manga/Base-Conhecimento/blob/master/check-list-seguranca-wp.md)
 
 
 
