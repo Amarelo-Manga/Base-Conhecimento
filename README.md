@@ -74,3 +74,5 @@ define( 'AI1WM_MAX_FILE_SIZE', 536870912 * 8 );
 * GitHub [Udacity](https://br.udacity.com/course/how-to-use-git-and-github--ud775)
 * Github [Udemey](https://www.udemy.com/git-e-github-para-iniciantes)
 * CSS [Flex Box Guia Completo](https://origamid.com/projetos/flexbox-guia-completo/)
+* CSS [FlexBox Game Froggy](http://flexboxfroggy.com/#pt-br)
+* CSS [FlexBox Game Defense](http://www.flexboxdefense.com/)
