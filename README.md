@@ -76,3 +76,5 @@ define( 'AI1WM_MAX_FILE_SIZE', 536870912 * 8 );
 * CSS [Flex Box Guia Completo](https://origamid.com/projetos/flexbox-guia-completo/)
 * CSS [FlexBox Game Froggy](http://flexboxfroggy.com/#pt-br)
 * CSS [FlexBox Game Defense](http://www.flexboxdefense.com/)
+* CSS [CSS Puro e Simples - Só que não](http://pt-br.learnlayout.com/no-layout.html)
+* CSS [CSS - Sem Layout](http://pt-br.learnlayout.com/no-layout.html)
