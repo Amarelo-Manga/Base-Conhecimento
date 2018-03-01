@@ -44,7 +44,7 @@ ExpiresByType application / x-javascript "acesso mais um ano"
 #Força o IE a sempre carregar utilizando a última versão disponível
 <IfModule mod_headers.c>
 conjunto de cabeçalho X-UA-Compatible "IE = Edge, chrome = 1"
-<FilesMatch "\ (js |. Css | gif | png | jpeg | pdf | xml | oga | ogg | m4a | ogv | mp4 | m4v | webm | svg | SVGZ | EOT | ttf | OTF | woff | ico | webp | AppCache | manifesto | HTC | crx | oex | xpi | safariextz | vcf) $">
+<FilesMatch "\ (js |. css | gif | png | jpeg | pdf | xml | oga | ogg | m4a | ogv | mp4 | m4v | webm | svg | SVGZ | EOT | ttf | OTF | woff | ico | webp | AppCache | manifesto | HTC | crx | oex | xpi | safariextz | vcf) $">
 Cabeçalho unset X-UA-Compatible
 </ FilesMatch>
 </ IfModule>
