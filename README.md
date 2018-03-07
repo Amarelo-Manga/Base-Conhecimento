@@ -78,4 +78,4 @@ define( 'AI1WM_MAX_FILE_SIZE', 536870912 * 8 );
 * CSS [FlexBox Game Defense](http://www.flexboxdefense.com/)
 * CSS [CSS Puro e Simples - Só que não](http://pt-br.learnlayout.com/no-layout.html)
 * CSS [CSS - Sem Layout](http://pt-br.learnlayout.com/no-layout.html)
-* Github [Git - Guia Prático] (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* Github [Git - Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
