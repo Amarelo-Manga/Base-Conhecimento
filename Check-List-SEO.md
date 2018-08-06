@@ -43,3 +43,4 @@ Referência: https://s3.amazonaws.com/rd-marketing-objects/ebook-dicas-seo/27-di
 * [SeoOptimer](https://www.seoptimer.com/)
 * [SimilarWeb](https://www.similarweb.com/website)
 * [NeilPatel](http://tools.neilpatel.com/en/analyze/h)
+* [XML Generator](https://amarelomanga.com.br/sitemap.xml)
